@@ -78,7 +78,7 @@ python main.py
 
 - Annotated video: `output_videos/output_video_1.avi`
 - Commentary audio: `audio_commentaries/full_match_commentary.mp3`
-
+![football_commentary-system](https://github.com/user-attachments/assets/85520ad9-11d9-496e-a119-affc6dcd8977)
 ---
 
 ## Notes
