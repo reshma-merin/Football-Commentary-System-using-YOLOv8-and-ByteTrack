@@ -109,5 +109,5 @@ python main.py
 
 
 
-<sub>KHUSHI MAHAJAN ,           RESHMA MERIN THOMAS ,          SHEILEY PATEL,           ANVITHA REDDY THUPALLLY</sub>
+<sub>CREATED BY: RESHMA MERIN THOMAS</sub>
 
