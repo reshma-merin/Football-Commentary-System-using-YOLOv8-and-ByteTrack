@@ -110,5 +110,5 @@ python main.py
 
 
 
-<sub>CREATED BY: RESHMA MERIN THOMAS</sub>
+<sub>CREATED BY: RESHMA MERIN THOMAS, KHUSHI MAHAJAN</sub>
 
