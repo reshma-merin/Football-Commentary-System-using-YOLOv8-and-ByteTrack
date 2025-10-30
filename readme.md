@@ -106,9 +106,7 @@ python main.py
 - gTTS for Text-to-Speech
 - Inspired by academic approaches to football analytics
 
+## Publication
+Mahajan K., Thomas R., Patel S., Thupally A. and Molokwu B. (2025). One-Shot Learning, Video-to-Audio Commentary System for Football and/or Soccer Games. In Proceedings of the 21st International Conference on Web Information Systems and Technologies - Volume 1: WEBIST; ISBN 978-989-758-772-6, SciTePress, pages 335-342. DOI: 10.5220/0013692000003985
 
-
-
-
-<sub>CREATED BY: RESHMA MERIN THOMAS, KHUSHI MAHAJAN</sub>
 
